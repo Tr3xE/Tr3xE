@@ -3,6 +3,7 @@
 ## 🌱 I’m currently learning JavaScript and c## and you can reach me at: eearboot@gmail.com 📫 and you can veiw my website at [https://www.ngt0.cf](https://www.ngt0.cf/home) (domain is down RN) and [https://www.ngt2.tk](https://www.ngt2.tk/home)
 <!--
 **Tr3xE/Tr3xE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My website domains are down right now!
 
 Here are some ideas to get you started:
 
