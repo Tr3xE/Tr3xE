@@ -1,6 +1,8 @@
 ### Hi there 👋
 # i'm the founder of Vertigo development and my online name is LactoseTheIntolerant
 ## 🌱 I’m currently learning JavaScript and c## and you can reach me at: eearboot@gmail.com 📫 and you can veiw my website at [https://www.ngt0.cf](https://www.ngt0.cf/home) (domain is down RN) and [https://www.ngt2.tk](https://www.ngt2.tk/home)
+
+# My domains are Down right now
 <!--
 **Tr3xE/Tr3xE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### My website domains are down right now!
