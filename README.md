@@ -1,7 +1,4 @@
-### Hi there 👋
-# i'm the founder of Vertigo development and my online name is LactoseTheIntolerant
-## 🌱 I’m currently learning JavaScript and c## C+ and Python and you can reach me at: eearboot@gmail.com 📫 and you can veiw my website at [https://www.ngt0.cf](https://www.ngt0.cf/home) (domain is down RN) and [https://www.ngt2.tk](https://www.ngt2.tk/home)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=exo+2&pause=1000&color=F79F3F&width=435&lines=Shire_luffydog;i'm+a+web+site+dev;and+a+roblox+dev;https%3A%2F%2Fdiscord.gg%2FyNYhxvZgvn)](https://git.io/typing-svg)
 <!--
 **Tr3xE/Tr3xE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### My website domains are down right now!
